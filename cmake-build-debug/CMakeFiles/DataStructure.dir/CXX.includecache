@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C/DataStructure/StackArray/StackArr.c
+StackArr.h
+F:/C/DataStructure/StackArray/StackArr.h
+
+F:/C/DataStructure/StackArray/StackArr.h
+stdio.h
+-
+stdlib.h
+-
+
+F:/C/DataStructure/main.cpp
+stdio.h
+-
+stdlib.h
+-
+StackArray/StackArr.c
+F:/C/DataStructure/StackArray/StackArr.c
+
