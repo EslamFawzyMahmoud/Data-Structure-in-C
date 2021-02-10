@@ -13,7 +13,7 @@ void Push(Stack_Entry item,struct Stack *pstack){
 }
 
 int StackFull(struct Stack *pstack){
-    return pstack->top == MAXSIZE ;
+    return pstack->top == StackMAXSIZE ;
 }
 
 void Pop(Stack_Entry *item,struct Stack *pstack){
@@ -42,7 +42,7 @@ void TraverseStack(struct Stack *pstack ,void (*pf)(Stack_Entry)){
     }
 }
 
-void Display(Stack_Entry item){
+void DisplayStack(Stack_Entry item){
     printf("Item = %d\n",item);
 }
 

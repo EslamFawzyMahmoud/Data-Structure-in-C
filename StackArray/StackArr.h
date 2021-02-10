@@ -4,14 +4,14 @@
 
 #ifndef DATASTRUCTURE_STACKARR_H
 #define DATASTRUCTURE_STACKARR_H
-#define MAXSIZE 100
+#define StackMAXSIZE 100
 #include <stdio.h>
 #include <stdlib.h>
 typedef int Stack_Entry;
 
 
 struct Stack{
-    Stack_Entry entry[MAXSIZE];
+    Stack_Entry entry[StackMAXSIZE];
     Stack_Entry top;
 };
 
@@ -33,7 +33,7 @@ void ClearStack(Stack *pstack);
 
 void TraverseStack(Stack *pstack ,void (*pf)(int));
 
-void Display(Stack_Entry item);
+void DisplayStack(Stack_Entry item);
 
 void StackTopUserLevel(Stack_Entry *pitem,Stack *pstack);
 
