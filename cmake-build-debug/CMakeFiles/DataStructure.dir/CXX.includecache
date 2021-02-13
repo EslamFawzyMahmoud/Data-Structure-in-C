@@ -6,21 +6,15 @@
 
 #IncludeRegexTransform: 
 
-F:/C/DataStructure/QueueArray/QueueArr.c
-QueueArr.h
-F:/C/DataStructure/QueueArray/QueueArr.h
-
-F:/C/DataStructure/QueueArray/QueueArr.h
+F:/C/DataStructure/StackList/StackList.c
+StackList.h
+F:/C/DataStructure/StackList/StackList.h
 stdio.h
 -
 stdlib.h
 -
 
-F:/C/DataStructure/StackArray/StackArr.c
-StackArr.h
-F:/C/DataStructure/StackArray/StackArr.h
-
-F:/C/DataStructure/StackArray/StackArr.h
+F:/C/DataStructure/StackList/StackList.h
 stdio.h
 -
 stdlib.h
@@ -31,8 +25,6 @@ stdio.h
 -
 stdlib.h
 -
-StackArray/StackArr.c
-F:/C/DataStructure/StackArray/StackArr.c
-QueueArray/QueueArr.c
-F:/C/DataStructure/QueueArray/QueueArr.c
+StackList/StackList.c
+F:/C/DataStructure/StackList/StackList.c
 

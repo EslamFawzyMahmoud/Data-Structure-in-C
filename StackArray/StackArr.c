@@ -4,7 +4,7 @@
 
 #include "StackArr.h"
 
-void CreateStack(struct Stack *pstack){
+void CreateStackArr(struct Stack *pstack){
     pstack->top=0;
 }
 

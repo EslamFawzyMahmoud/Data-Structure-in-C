@@ -17,7 +17,7 @@ struct Stack{
 
 void Push(Stack_Entry item,Stack *pstack);
 
-void CreateStack(Stack *pstack);
+void CreateStackArr(Stack *pstack);
 
 int StackFull(Stack *pstack);
 
