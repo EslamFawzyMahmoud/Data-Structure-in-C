@@ -39,9 +39,4 @@ void TraverseStackList(StackList *pstack,void (*pf)(Stack_Entry));
 
 int StackListSize(StackList *);
 
-
-
-
-
-
 #endif //DATASTRUCTURE_STACKLIST_H

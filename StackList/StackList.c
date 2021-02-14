@@ -71,12 +71,3 @@ void TraverseStackList(struct StackList *pstack,void (*pf)(Stack_Entry)){
 int StackListSize(struct StackList *pstack){
     return pstack->size;
 }
-
-
-
-
-
-
-
-
-
