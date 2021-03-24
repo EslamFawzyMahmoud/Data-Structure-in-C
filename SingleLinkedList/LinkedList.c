@@ -98,4 +98,3 @@ void ReplaceList(struct List *pl,int pos,LinkedList_Entry pe) {
         q=q->next;
     q->entry=pe;
 }
-

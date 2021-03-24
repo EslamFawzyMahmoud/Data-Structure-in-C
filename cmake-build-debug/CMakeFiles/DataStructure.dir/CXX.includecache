@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-F:/C/DataStructure/StackList/StackList.c
-StackList.h
-F:/C/DataStructure/StackList/StackList.h
-stdio.h
--
-stdlib.h
--
+F:/C/DataStructure/BinarySearchTree/BinarySearchTree.c
+BinarySearchTree.h
+F:/C/DataStructure/BinarySearchTree/BinarySearchTree.h
 
-F:/C/DataStructure/StackList/StackList.h
+F:/C/DataStructure/BinarySearchTree/BinarySearchTree.h
 stdio.h
 -
 stdlib.h
@@ -25,6 +21,6 @@ stdio.h
 -
 stdlib.h
 -
-StackList/StackList.c
-F:/C/DataStructure/StackList/StackList.c
+BinarySearchTree/BinarySearchTree.c
+F:/C/DataStructure/BinarySearchTree/BinarySearchTree.c
 
